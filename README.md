@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I’m a passionate developer from Bengaluru, India
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](www.linkedin.com/in/manoj-b-m)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/manoj-b-m)
 
 ## 📝 Latest Blog Posts
 
