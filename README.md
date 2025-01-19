@@ -36,10 +36,15 @@ Welcome to my GitHub profile! I’m a passionate developer from Bengaluru, India
 ## 📈 GitHub Stats
 
 ![NaiduBM's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaiduBM&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaiduBM&layout=compact&theme=dark)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaiduBM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/manoj-b-m)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](www.linkedin.com/in/manoj-b-m)
 
 ## 📝 Latest Blog Posts
 
