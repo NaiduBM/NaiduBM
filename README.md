@@ -35,6 +35,9 @@ Welcome to my GitHub profile! I’m a passionate developer from Bengaluru, India
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
+![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=github)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
